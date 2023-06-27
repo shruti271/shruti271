@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shruti Italiya</h1>
+<h1 align="center">Hello 👋, I'm Shruti Italiya</h1>
 
 <h3 align="center">A passionate full-stack developer from Toronto, Canada</h3>
 
@@ -17,7 +17,7 @@
     <li>
       <h4>Hakathon - ( Humber college - January 2023 ) </h4>
       <p>I have parcipated in hackathon orgnized by humber college and get 2nd runner rup .</p>
-      <img src="shruti_humber.jpeg" height='200px'/>          
+      <img src="shruti_humber.jpeg" height='200px' align="center"/>          
   </li>
     <li>
       <h4>CodeLight 2018 (Red and white institute - Aug 2018) </h4>
