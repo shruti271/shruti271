@@ -13,7 +13,7 @@
 </p>
 
 <h3>Achievement</h3>
-<p align="left">
+<p align="left" display="flex">
   <ul>
     <li>
       <h4>Hakathon - ( **Humber college - January 2023** ) </h4>
@@ -21,8 +21,8 @@
       <img src="shruti_humber.jpeg" height='200px'/>          
   </li>
     <li>
-      <h4>CodeLight 2018 </h4>
-      <h6> Red and white institute - Aug 2018</h6>      
+      <h4>CodeLight 2018 (Red and white institute - Aug 2018) </h4>
+      <p>I have attended this coding comepetition in India</p>
     </li>
     <li>
       <h4>12th Grade board Topper In school</h4>      
