@@ -12,7 +12,7 @@
 </p>
 
 <h3>Achievement</h3>
-<p align="left" >
+<p>
   <ul>
     <li>
       <h4>Hakathon - ( Humber college - January 2023 ) </h4>
