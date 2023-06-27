@@ -22,8 +22,7 @@
   </li>
     <li>
       <h4>CodeLight 2018 </h4>
-      <h6> Red and white institute - Aug 2018</h6>
-      
+      <h6> Red and white institute - Aug 2018</h6>      
     </li>
     <li>
       <h4>12th Grade board Topper In school</h4>      
