@@ -19,7 +19,7 @@
       <h4>Hakathon - ( **Humber college - January 2023** ) </h4>
       <p>I have parcipated in hackathon orgnized by humber college and get 2nd runner rup .</p>
       <img src="shruti_humber.jpeg" height='200px'/>          
-    </li>
+  </li>
     <li>
       <h4>CodeLight 2018 </h4>
       <h6> Red and white institute - Aug 2018</h6>
