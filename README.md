@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shruti Italiya</h1>
+
 <h3 align="center">A passionate full-stack developer from Toronto, Canada</h3>
 
 - 🌱 I’m currently looking **Internship or Remote work**
-
 - 💬 Ask me about **Data structure and algorithm, MERN stack**
-
 - 📫 How to reach me **shrutiitaliya6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
