@@ -16,12 +16,14 @@
 <p align="left">
   <ul>
     <li>
-      <h4>Hakathon</h4>
-      <img src="shruti_humber.jpeg" height='200px'/>    
-      <p align="right">I have parcipated in hackathon orgnized by humber college and get 2nd runner rup .</p>
+      <h4>Hakathon </h4>
+      <h6>- **Humber college - January 2023**</h6>
+      <p>I have parcipated in hackathon orgnized by humber college and get 2nd runner rup .</p>
+      <img src="shruti_humber.jpeg" height='200px'/>          
     </li>
     <li>
-      <h4>Hakathon</h4>
+      <h4>CodeLight 2018 </h4>
+      <h6> Red and white institute - Aug 2018</h6>
       <img src="shruti3.jpeg" height='200px'/>    
     </li>
   </ul>
