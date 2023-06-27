@@ -16,8 +16,7 @@
 <p align="left">
   <ul>
     <li>
-      <h4>Hakathon </h4>
-      <h6>- **Humber college - January 2023**</h6>
+      <h4>Hakathon </h4><span>**Humber college - January 2023</span>      
       <p>I have parcipated in hackathon orgnized by humber college and get 2nd runner rup .</p>
       <img src="shruti_humber.jpeg" height='200px'/>          
     </li>
