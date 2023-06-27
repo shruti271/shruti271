@@ -13,10 +13,10 @@
 </p>
 
 <h3>Achievement</h3>
-<p align="left" display="flex">
+<p align="left" >
   <ul>
     <li>
-      <h4>Hakathon - ( **Humber college - January 2023** ) </h4>
+      <h4>Hakathon - ( Humber college - January 2023 ) </h4>
       <p>I have parcipated in hackathon orgnized by humber college and get 2nd runner rup .</p>
       <img src="shruti_humber.jpeg" height='200px'/>          
   </li>
