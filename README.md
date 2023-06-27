@@ -18,6 +18,11 @@
     <li>
       <h4>Hakathon</h4>
       <img src="shruti_humber.jpeg" height='200px'/>    
+      <p>I have parcipated in hackathon orgnized by humber college and get 2nd runner rup .</p>
+    </li>
+    <li>
+      <h4>Hakathon</h4>
+      <img src="shruti3.jpeg" height='200px'/>    
     </li>
   </ul>
 </p>
