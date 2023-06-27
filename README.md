@@ -14,7 +14,12 @@
 
 <h3>Achievement</h3>
 <p align="left">
-<img src="shruti_humber.jpeg" height='50px'/>
+  <ul>
+    <li>
+      <h4>Hakathon</h4>
+      <img src="shruti_humber.jpeg" height='200px'/>    
+    </li>
+  </ul>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
