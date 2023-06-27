@@ -22,7 +22,7 @@
   </li>
     <li>
       <h4>CodeLight 2018 (Red and white institute - Aug 2018) </h4>
-      <p>I have attended this coding comepetition in India</p>
+      <p>I have attended this coding comepetition in India, and got 2nd rank</p>
     </li>
     <li>
       <h4>12th Grade board Topper In school</h4>      
