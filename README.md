@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate full-stack developer from Toronto, Canada</h3>
 
-- 🌱 I’m currently looking **Internship or Remote work**
-- 💬 Ask me about **Data structure and algorithm, MERN stack**
-- 📫 How to reach me **shrutiitaliya6@gmail.com**
+- 🌱 I’m currently looking **Full-time opportunity from Aug 2024**
+- 💬 Ask me about **MERN/MEAN stack**
+- 📫 How to reach me **shrutiitaliya2701@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
