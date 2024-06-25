@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Full Stack Developer from Toronto, Canada</h3>
 
 - 🌱 I’m currently looking **Full-time opportunity from Aug 2024**
-- 💬 Ask me about **MERN/MEAN stack**
 - 📫 How to reach me **shrutiitaliya2701@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
